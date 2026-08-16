@@ -34,7 +34,7 @@ Python · Windows GUI apps · ffmpeg · yt-dlp · GPU-accelerated encoding (NVEN
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quinnuk&show_icons=true&theme=default&hide_title=false" alt="quinnuk's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=quinnuk&show_icons=true&theme=default&hide_title=false" alt="quinnuk's GitHub stats" />
 </p>
 
 ---
