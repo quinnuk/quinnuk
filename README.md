@@ -16,6 +16,13 @@
 ### 🎬 Repositories
 
 <!-- REPO-LIST:START -->
+| Project | What it does | Language | ⭐ |
+|---|---|---|---|
+| [**DiscTrackSplitter**](https://github.com/quinnuk/DiscTrackSplitter) | GUI tool to split ripped Blu-ray concert & music discs into chapter-named song files, preserving your choice of audio track without re-encoding. | Python | 1 |
+| [**audiocleaner**](https://github.com/quinnuk/audiocleaner) | Windows app that scans MKV folders and keeps only the single best English audio track per file — Dolby Atmos wins when present. No re-encoding, no touching video/subs/chapters. | Python | 1 |
+| [**LoopClip**](https://github.com/quinnuk/LoopClip) | Windows app that downloads YouTube videos and auto-trims/re-encodes them into seamless looping 4K HEVC screensaver clips, with NVENC GPU acceleration. Built for Projectivy Launcher. | Python | 2 |
+| [**VideoDownloader**](https://github.com/quinnuk/VideoDownloader) | A modern Windows video downloader for YouTube, Vimeo, TikTok, Reddit, Facebook, X and 1000+ other sites powered by yt-dlp. | Python | 2 |
+| [**AtmosTrackSplitter**](https://github.com/quinnuk/AtmosTrackSplitter) | Split a ripped Blu-ray concert/music disc into individual, chapter-named Dolby Atmos song files — no re-encoding. Windows GUI + CLI. | Python | 1 |
 <!-- REPO-LIST:END -->
 
 ---
