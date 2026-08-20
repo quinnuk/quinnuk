@@ -20,6 +20,7 @@
 | [**VideoDownloader**](https://github.com/quinnuk/VideoDownloader) | Windows video downloader for YouTube, Vimeo, TikTok, Reddit, X and 1000+ sites, powered by `yt-dlp` |
 | [**LoopClip**](https://github.com/quinnuk/LoopClip) | Downloads YouTube videos and turns them into seamless looping 4K HEVC screensaver clips, with NVENC GPU acceleration |
 | [**AtmosTrackSplitter**](https://github.com/quinnuk/AtmosTrackSplitter) | Splits a ripped Blu-ray concert disc into individual, chapter-named Dolby Atmos song files — no re-encoding |
+| [**DiscTrackSplitter**](https://github.com/quinnuk/DiscTrackSplitter) | GUI tool to split ripped Blu-ray concert & music discs into chapter-named song files, preserving your choice of audio track without re-encoding |
 | [**audiocleaner**](https://github.com/quinnuk/audiocleaner) | Scans MKV folders and keeps only the single best English audio track per file (Atmos wins when present) |
 | [**torlink**](https://github.com/quinnuk/torlink) | A simple, portable BitTorrent search and download client for Windows |
 
