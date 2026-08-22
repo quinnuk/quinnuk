@@ -18,6 +18,7 @@
 <!-- REPO-LIST:START -->
 | Project | What it does | Language | ⭐ |
 |---|---|---|---|
+| [**FileCopierPro**](https://github.com/quinnuk/FileCopierPro) | File Transfers | PowerShell | 1 |
 | [**DiscTrackSplitter**](https://github.com/quinnuk/DiscTrackSplitter) | GUI tool to split ripped Blu-ray concert & music discs into chapter-named song files, preserving your choice of audio track without re-encoding. | Python | 1 |
 | [**audiocleaner**](https://github.com/quinnuk/audiocleaner) | Windows app that scans MKV folders and keeps only the single best English audio track per file — Dolby Atmos wins when present. No re-encoding, no touching video/subs/chapters. | Python | 1 |
 | [**LoopClip**](https://github.com/quinnuk/LoopClip) | Windows app that downloads YouTube videos and auto-trims/re-encodes them into seamless looping 4K HEVC screensaver clips, with NVENC GPU acceleration. Built for Projectivy Launcher. | Python | 2 |
