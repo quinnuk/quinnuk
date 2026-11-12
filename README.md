@@ -23,7 +23,7 @@
 | [**VideoDownloader**](https://github.com/quinnuk/VideoDownloader) | A modern Windows video downloader for YouTube, Vimeo, TikTok, Reddit, Facebook, X and 1000+ other sites powered by yt-dlp. | Python | 3 |
 | [**LoopClip**](https://github.com/quinnuk/LoopClip) | Windows app that downloads YouTube videos and auto-trims/re-encodes them into seamless looping 4K HEVC screensaver clips, with NVENC GPU acceleration. Built for Projectivy Launcher. | Python | 7 |
 | [**FileCopierPro**](https://github.com/quinnuk/FileCopierPro) | File Transfers | PowerShell | 1 |
-| [**DiscTrackSplitter**](https://github.com/quinnuk/DiscTrackSplitter) | GUI tool to split ripped Blu-ray concert & music discs into chapter-named song files, preserving your choice of audio track without re-encoding. | Python | 1 |
+| [**DiscTrackSplitter**](https://github.com/quinnuk/DiscTrackSplitter) | GUI tool to split ripped Blu-ray concert & music discs into chapter-named song files, preserving your choice of audio track without re-encoding. | Python | 2 |
 <!-- REPO-LIST:END -->
 
 ---
